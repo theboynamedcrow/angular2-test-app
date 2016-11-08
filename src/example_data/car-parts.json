@@ -1,6 +1,6 @@
-import { CarPart } from './car-part';
-
-export const CARPARTS: CarPart[] = [{
+{
+ "data": [
+ {
     "id": 1,
     "name": "Super Tires",
     "description": "These tires are the very best",
@@ -23,4 +23,6 @@ export const CARPARTS: CarPart[] = [{
     "inStock": 0,
     "price": 11.99,
     "image": "/images/seat.jpg"
-  }];
+  }
+ ]
+}

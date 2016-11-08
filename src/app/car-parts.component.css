@@ -5,3 +5,11 @@
  .price {
  font-weight: bold;
  }
+ .photo {
+     float: left;
+     display: none;
+
+ }
+ .product-info {
+
+ }
